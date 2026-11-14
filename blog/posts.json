@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "welcome-to-our-blog",
+    "title": "Welcome to the PI DATATEC Blog",
+    "date": "2026-11-14",
+    "author": "PI DATATEC Team",
+    "summary": "What you can expect to read here: analytics, automation and simulation in practice.",
+    "tags": ["Announcement"],
+    "file": "welcome-to-our-blog.md"
+  }
+]
